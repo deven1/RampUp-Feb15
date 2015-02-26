@@ -17,3 +17,10 @@
 	font-weight: normal;
 	background-color: white;
 }
+
+#first{
+	font-family:verdana;
+	border: 1px solid #7f8c8d;
+	font-variant: small-caps;
+	background-color: #1abc9c;
+}
